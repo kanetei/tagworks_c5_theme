@@ -9,7 +9,15 @@ nbdist/
 nbactions.xml
 nb-configuration.xml
 
+### Concrete5 ###
+concrete/
+config/
+files/
+languages/
+LICENSE.TXT
+index.php
+robots.txt
+
 ### Foundation ###
-work/css/*
-work/bower_components/*
-work/node_modules/*
+themes/tagworks_theme/bower_components/*
+themes/tagworks_theme/node_modules/*
